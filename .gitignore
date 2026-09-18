@@ -1,0 +1,11 @@
+bin/
+obj/
+dist/
+tests/bin/
+tools/*.exe
+logs/
+backups/
+nginx-config-backups/
+*.user
+*.suo
+*.tmp
